@@ -1,0 +1,1 @@
+This ZIP contains source files only. Run `npm install` then `npx prisma migrate dev --name init` then `npm run dev`.
